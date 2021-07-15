@@ -95,6 +95,7 @@ device_t Adafruit_DAP_SAM::devices[] = {
     {0x10010200, (char *)"SAM D21J18A (Rev C)", 256 * 1024, 4096},
     {0x10010300, (char *)"SAM D21J18A (Rev D)", 256 * 1024, 4096},
     {0x1001020d, (char *)"SAM D21E15A (Rev C)", 32 * 1024, 512},
+    {0x1001030b, (char *)"SAM D21E17A (Rev A)", 128 * 1024, 2048},
     {0x1001030a, (char *)"SAM D21E18A", 256 * 1024, 4096},
     {0x10010205, (char *)"SAM D21G18A", 256 * 1024, 4096},
     {0x10010305, (char *)"SAM D21G18A (Rev D)", 256 * 1024, 4096},
